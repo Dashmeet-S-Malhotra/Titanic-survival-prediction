@@ -152,7 +152,7 @@ Implemented Logistic Regression with:
 📬 **Contact:**  
 - Email: [dashcodeworks@gmail.com]  
 - LinkedIn: [https://www.linkedin.com/in/dashmeet-singh-malhotra-6a90a3325/]  
-- GitHub: [github.com/Dashmeet-S-Malhotra]
+- GitHub: [https://github.com/Dashmeet-S-Malhotra]
 
 ---
 
